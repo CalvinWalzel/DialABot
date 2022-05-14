@@ -1,4 +1,4 @@
-ARG PJSUA_VER=2.11
+ARG PJSUA_VER=2.12.1
 ARG TS3_VER=3.5.6
 FROM spritsail/debian-builder:buster-slim as builder
 
